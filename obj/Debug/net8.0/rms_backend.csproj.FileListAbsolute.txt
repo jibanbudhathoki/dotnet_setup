@@ -125,3 +125,4 @@
 /Users/jibanmac/Desktop/develope/rms_backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.rms_backend.props
 /Users/jibanmac/Desktop/develope/rms_backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.rms_backend.props
 /Users/jibanmac/Desktop/develope/rms_backend/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/jibanmac/Desktop/develope/rms_backend/obj/Debug/net8.0/rms_backend.sourcelink.json
